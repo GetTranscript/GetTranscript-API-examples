@@ -1,3 +1,5 @@
+markdown
+
 # GetTranscript API — Code Examples 🚀
 
 This repository contains practical code examples for integrating the **[GetTranscript API](https://gettranscript.app/documentation)** into your applications.
@@ -21,14 +23,26 @@ cd python
 pip install requests python-dotenv
 python fetch_transcript.py
 
-### 2. Node.js
-```bash
+2. Node.js
+bash
+
 cd nodejs
 npm install axios dotenv
 node fetch_transcript.js
 
-### 3. cURL (Command Line)
+3. cURL (Command Line)
+bash
 
-```bash
 cd curl
 bash request.sh
+
+📚 Documentation
+
+For full details on endpoints, parameters, and rate limits, please read our official API Documentation.
+🔗 Useful Links
+
+    Free YouTube Transcript Extractor — Try our web interface.
+
+    Bulk Channel Extractor — Process thousands of videos.
+
+    Pricing — Pay-as-you-go credits.
