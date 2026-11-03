@@ -20,3 +20,15 @@ You can get one for free in your **[GetTranscript Dashboard](https://gettranscri
 cd python
 pip install requests python-dotenv
 python fetch_transcript.py
+
+### 2. Node.js
+```bash
+cd nodejs
+npm install axios dotenv
+node fetch_transcript.js
+
+### 3. cURL (Command Line)
+
+```bash
+cd curl
+bash request.sh
